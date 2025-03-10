@@ -21,7 +21,7 @@ Cette toute première version propose une gestion de projet complète, intégran
 - Statuts de menace et de protection régionalisés
 - Export des données au format SINP
 
-<a href="lien_vers_ton_fichier.zip" style="
+<a href="https://github.com/FelixHinckel/QBiome/releases/download/v1.0.1/QBiome.zip" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #839e17;
@@ -33,15 +33,15 @@ Cette toute première version propose une gestion de projet complète, intégran
 </a>
 
 Ce projet peut être ouvert sur QGis, pour ajouter des couches projet, ou sur QField, pour commencer à saisir des observations.
-Attention, QBiome 1.1 fonctionne avec la dernière version de QField, 3.5 Fangorn! Pensez à faire la mise à jour sur vos appareils avant de partir sur le terrain!
+Attention, QBiome 1.0.1 fonctionne avec la dernière version de QField, 3.5 Fangorn! Pensez à faire la mise à jour sur vos appareils avant de partir sur le terrain!
 
 <br>
 
 <h2 style="color:#a0985c;">  Versions spécifiques</h2>
 
-Si QBiome permet la gestion complète d'un projet, certain préfèreront des version plus légères, centrées sur leur coeur d'activité :
+Si QBiome permet la gestion complète d'un projet, certain préfèreront des versions plus légères, centrées sur leur coeur d'activité :
 
-<a href="lien_vers_ton_fichier.zip" style="
+<a href="https://github.com/FelixHinckel/QBiome/releases/download/v1.0.1-Faune/QBiome-Faune.zip" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #a0985c;
@@ -52,7 +52,7 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
   QBiome 1.0.1 - Faune
 </a>
 
-<a href="lien_vers_ton_fichier.zip" style="
+<a href="https://github.com/FelixHinckel/QBiome/releases/download/v1.0.1-Flore/QBiome-Flore.zip" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #a0985c;
@@ -63,7 +63,7 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
   QBiome 1.0.1 - Flore
 </a>
 
-<a href="lien_vers_ton_fichier.zip" style="
+<a href="https://github.com/FelixHinckel/QBiome/releases/download/v1.0.1-Fonge/QBiome-Fonge.zip" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #a0985c;

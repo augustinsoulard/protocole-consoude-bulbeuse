@@ -117,4 +117,4 @@ Pourquoi soutenir QBiome ?
 
 ---
 
-2025 Ageona Cartographie
+2025 [Ageona Cartographie](https://www.linkedin.com/company/ageona-cartographie/) - [Félix Hinckel](https://www.linkedin.com/in/felix-hinckel/)
